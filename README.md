@@ -94,7 +94,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
   * Return the JSON representation of your dictionary.
 
-* `/api/v1.0/stations`
+* `/v1.0/api/stations`
 
   * Return a JSON list of stations from the dataset.
 
